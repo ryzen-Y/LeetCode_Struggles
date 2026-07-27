@@ -15,3 +15,21 @@ class Solution:
             if right_sum[i] == prefix_sum[i]:
                 return i
         return -1
+
+
+# ========================= Optimized =======================
+
+# class Solution:
+
+    def findMiddleIndex(self, nums: List[int]) -> int:
+        left_sum = [0]
+        right = 0
+        total = sum(nums)
+        for i in nums:
+            left_sum.append(left_sum[-1] + i)
+
+        for i in range(len(nums)):
+            right = total - left_sum[i] - nums[i]
+            if right == left_sum[i]:
+                return i
+        return -1
