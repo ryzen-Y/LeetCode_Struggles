@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
 
-
 A collection of my **Data Structures & Algorithms (DSA)** solutions from various coding platforms. This repository serves as my personal coding journal to improve problem-solving skills, strengthen algorithmic thinking, and prepare for coding interviews and competitive programming.
 
 ---
@@ -11,9 +10,9 @@ A collection of my **Data Structures & Algorithms (DSA)** solutions from various
 # 📌 Platforms
 
 - 🟢 LeetCode
-- 🔵 Codeforces *(Coming Soon)*
-- 🟠 CodeChef *(Coming Soon)*
-- 🟣 AtCoder *(Coming Soon)*
+- 🔵 Codeforces _(Coming Soon)_
+- 🟠 CodeChef _(Coming Soon)_
+- 🟣 AtCoder _(Coming Soon)_
 
 ---
 
@@ -56,29 +55,30 @@ Problem_Solving/
 
 # 📈 Progress
 
-| Platform | Solved |
-|----------|--------|
-| LeetCode | <!-- LEET_COUNT -->39<!-- END_LEET_COUNT --> |
-| Codeforces | 0 |
-| CodeChef | 0 |
-| AtCoder | 0 |
+| Platform   | Solved                                       |
+| ---------- | -------------------------------------------- |
+| LeetCode   | <!-- LEET_COUNT -->39<!-- END_LEET_COUNT --> |
+| Codeforces | 0                                            |
+| CodeChef   | 0                                            |
+| AtCoder    | 0                                            |
 
 ---
 
 ## 📊 Difficulty Breakdown
 
-| Difficulty | Solved |
-|------------|--------|
-| 🟢 Easy | <!-- EASY_COUNT -->38<!-- END_EASY_COUNT --> |
-| 🟡 Medium | <!-- MEDIUM_COUNT -->1<!-- END_MEDIUM_COUNT --> |
-| 🔴 Hard | <!-- HARD_COUNT -->0<!-- END_HARD_COUNT --> |
+| Difficulty | Solved                                          |
+| ---------- | ----------------------------------------------- |
+| 🟢 Easy    | <!-- EASY_COUNT -->38<!-- END_EASY_COUNT -->    |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->1<!-- END_MEDIUM_COUNT --> |
+| 🔴 Hard    | <!-- HARD_COUNT -->0<!-- END_HARD_COUNT -->     |
 
 ---
 
 # 📖 Problem List
 
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
+| #   | Problem | Difficulty | Solution |
+| --- | ------- | ---------- | -------- |
+
 <!-- START_PROBLEMS -->
 
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](leet/1.py) |
