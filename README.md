@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
-![Problems](https://img.shields.io/badge/Problems-<!-- LEET_COUNT -->39<!-- END_LEET_COUNT -->-brightgreen?style=for-the-badge)
+
 
 A collection of my **Data Structures & Algorithms (DSA)** solutions from various coding platforms. This repository serves as my personal coding journal to improve problem-solving skills, strengthen algorithmic thinking, and prepare for coding interviews and competitive programming.
 
