@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
-![Problems](https://img.shields.io/badge/Problems-<!-- LEET_COUNT -->21<!-- END_LEET_COUNT -->-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-<!-- LEET_COUNT -->39<!-- END_LEET_COUNT -->-brightgreen?style=for-the-badge)
 
 A collection of my **Data Structures & Algorithms (DSA)** solutions from various coding platforms. This repository serves as my personal coding journal to improve problem-solving skills, strengthen algorithmic thinking, and prepare for coding interviews and competitive programming.
 
@@ -58,7 +58,7 @@ Problem_Solving/
 
 | Platform | Solved |
 |----------|--------|
-| LeetCode | <!-- LEET_COUNT -->21<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->39<!-- END_LEET_COUNT --> |
 | Codeforces | 0 |
 | CodeChef | 0 |
 | AtCoder | 0 |
@@ -69,8 +69,8 @@ Problem_Solving/
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | <!-- EASY_COUNT -->21<!-- END_EASY_COUNT --> |
-| 🟡 Medium | <!-- MEDIUM_COUNT -->0<!-- END_MEDIUM_COUNT --> |
+| 🟢 Easy | <!-- EASY_COUNT -->38<!-- END_EASY_COUNT --> |
+| 🟡 Medium | <!-- MEDIUM_COUNT -->1<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard | <!-- HARD_COUNT -->0<!-- END_HARD_COUNT --> |
 
 ---
@@ -87,19 +87,37 @@ Problem_Solving/
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | [Python](leet/26.py) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | [Python](leet/27.py) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | [Python](leet/35.py) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | [Python](leet/53.py) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [Python](leet/58.py) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | [Python](leet/66.py) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [Python](leet/88.py) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [Python](leet/121.py) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | [Python](leet/136.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | [Python](leet/169.py) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [Python](leet/217.py) |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 🟢 Easy | [Python](leet/219.py) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | [Python](leet/242.py) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | [Python](leet/268.py) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | [Python](leet/283.py) |
+| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 🟢 Easy | [Python](leet/303.py) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | [Python](leet/349.py) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | [Python](leet/392.py) |
+| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | 🟢 Easy | [Python](leet/414.py) |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢 Easy | [Python](leet/724.py) |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | [Python](leet/977.py) |
+| 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | 🟢 Easy | [Python](leet/1207.py) |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | 🟢 Easy | [Python](leet/1295.py) |
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | 🟢 Easy | [Python](leet/1299.py) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | 🟢 Easy | [Python](leet/1351.py) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 🟢 Easy | [Python](leet/1365.py) |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 Easy | [Python](leet/1431.py) |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | [Python](leet/1470.py) |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | [Python](leet/1480.py) |
+| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | 🟢 Easy | [Python](leet/1512.py) |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | 🟢 Easy | [Python](leet/1732.py) |
+| 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | 🟢 Easy | [Python](leet/1920.py) |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | [Python](leet/1929.py) |
+| 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | 🟢 Easy | [Python](leet/1991.py) |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | 🟢 Easy | [Python](leet/2678.py) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | [Python](leet/2965.py) |
 
