@@ -57,7 +57,7 @@ Problem_Solving/
 
 | Platform   | Solved                                       |
 | ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->39<!-- END_LEET_COUNT --> |
+| LeetCode   | <!-- LEET_COUNT -->40<!-- END_LEET_COUNT --> |
 | Codeforces | 0                                            |
 | CodeChef   | 0                                            |
 | AtCoder    | 0                                            |
@@ -68,7 +68,7 @@ Problem_Solving/
 
 | Difficulty | Solved                                          |
 | ---------- | ----------------------------------------------- |
-| 🟢 Easy    | <!-- EASY_COUNT -->38<!-- END_EASY_COUNT -->    |
+| 🟢 Easy    | <!-- EASY_COUNT -->39<!-- END_EASY_COUNT -->    |
 | 🟡 Medium  | <!-- MEDIUM_COUNT -->1<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->0<!-- END_HARD_COUNT -->     |
 
@@ -103,6 +103,7 @@ Problem_Solving/
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | [Python](leet/349.py) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | [Python](leet/392.py) |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | 🟢 Easy | [Python](leet/414.py) |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢 Easy | [Python](leet/643.py) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢 Easy | [Python](leet/724.py) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | [Python](leet/977.py) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | 🟢 Easy | [Python](leet/1207.py) |
