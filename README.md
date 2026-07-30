@@ -57,7 +57,7 @@ Problem_Solving/
 
 | Platform   | Solved                                       |
 | ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->43<!-- END_LEET_COUNT --> |
+| LeetCode   | <!-- LEET_COUNT -->45<!-- END_LEET_COUNT --> |
 | Codeforces | 0                                            |
 | CodeChef   | 0                                            |
 | AtCoder    | 0                                            |
@@ -68,8 +68,8 @@ Problem_Solving/
 
 | Difficulty | Solved                                          |
 | ---------- | ----------------------------------------------- |
-| 🟢 Easy    | <!-- EASY_COUNT -->42<!-- END_EASY_COUNT -->    |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->1<!-- END_MEDIUM_COUNT --> |
+| 🟢 Easy    | <!-- EASY_COUNT -->43<!-- END_EASY_COUNT -->    |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->2<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->0<!-- END_HARD_COUNT -->     |
 
 ---
@@ -90,6 +90,7 @@ Problem_Solving/
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | [Python](leet/53.py) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [Python](leet/58.py) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | [Python](leet/66.py) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | [Python](leet/75.py) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [Python](leet/88.py) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [Python](leet/121.py) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | [Python](leet/136.py) |
@@ -105,6 +106,7 @@ Problem_Solving/
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | 🟢 Easy | [Python](leet/414.py) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | [Python](leet/485.py) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢 Easy | [Python](leet/643.py) |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | 🟢 Easy | [Python](leet/709.py) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢 Easy | [Python](leet/724.py) |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | 🟢 Easy | [Python](leet/867.py) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | [Python](leet/977.py) |
