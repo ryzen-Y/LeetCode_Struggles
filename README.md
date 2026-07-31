@@ -57,7 +57,7 @@ Problem_Solving/
 
 | Platform   | Solved                                       |
 | ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->48<!-- END_LEET_COUNT --> |
+| LeetCode   | <!-- LEET_COUNT -->49<!-- END_LEET_COUNT --> |
 | Codeforces | 0                                            |
 | CodeChef   | 0                                            |
 | AtCoder    | 0                                            |
@@ -68,7 +68,7 @@ Problem_Solving/
 
 | Difficulty | Solved                                          |
 | ---------- | ----------------------------------------------- |
-| 🟢 Easy    | <!-- EASY_COUNT -->44<!-- END_EASY_COUNT -->    |
+| 🟢 Easy    | <!-- EASY_COUNT -->45<!-- END_EASY_COUNT -->    |
 | 🟡 Medium  | <!-- MEDIUM_COUNT -->4<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->0<!-- END_HARD_COUNT -->     |
 
@@ -83,6 +83,7 @@ Problem_Solving/
 
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](leet/1.py) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [Python](leet/9.py) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | [Python](leet/13.py) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | [Python](leet/14.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | [Python](leet/26.py) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | [Python](leet/27.py) |
