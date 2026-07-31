@@ -57,7 +57,7 @@ Problem_Solving/
 
 | Platform   | Solved                                       |
 | ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->46<!-- END_LEET_COUNT --> |
+| LeetCode   | <!-- LEET_COUNT -->47<!-- END_LEET_COUNT --> |
 | Codeforces | 0                                            |
 | CodeChef   | 0                                            |
 | AtCoder    | 0                                            |
@@ -69,7 +69,7 @@ Problem_Solving/
 | Difficulty | Solved                                          |
 | ---------- | ----------------------------------------------- |
 | 🟢 Easy    | <!-- EASY_COUNT -->43<!-- END_EASY_COUNT -->    |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->3<!-- END_MEDIUM_COUNT --> |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->4<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->0<!-- END_HARD_COUNT -->     |
 
 ---
@@ -106,6 +106,7 @@ Problem_Solving/
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | [Python](leet/392.py) |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | 🟢 Easy | [Python](leet/414.py) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | [Python](leet/485.py) |
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | [Python](leet/560.py) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢 Easy | [Python](leet/643.py) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | 🟢 Easy | [Python](leet/709.py) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢 Easy | [Python](leet/724.py) |
