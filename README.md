@@ -57,7 +57,7 @@ Problem_Solving/
 
 | Platform   | Solved                                       |
 | ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->47<!-- END_LEET_COUNT --> |
+| LeetCode   | <!-- LEET_COUNT -->48<!-- END_LEET_COUNT --> |
 | Codeforces | 0                                            |
 | CodeChef   | 0                                            |
 | AtCoder    | 0                                            |
@@ -68,7 +68,7 @@ Problem_Solving/
 
 | Difficulty | Solved                                          |
 | ---------- | ----------------------------------------------- |
-| 🟢 Easy    | <!-- EASY_COUNT -->43<!-- END_EASY_COUNT -->    |
+| 🟢 Easy    | <!-- EASY_COUNT -->44<!-- END_EASY_COUNT -->    |
 | 🟡 Medium  | <!-- MEDIUM_COUNT -->4<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->0<!-- END_HARD_COUNT -->     |
 
@@ -90,6 +90,7 @@ Problem_Solving/
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | [Python](leet/53.py) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [Python](leet/58.py) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | [Python](leet/66.py) |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | [Python](leet/69.py) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | [Python](leet/75.py) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [Python](leet/88.py) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [Python](leet/121.py) |
