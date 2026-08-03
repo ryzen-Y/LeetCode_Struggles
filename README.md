@@ -57,7 +57,7 @@ Problem_Solving/
 
 | Platform   | Solved                                       |
 | ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->59<!-- END_LEET_COUNT --> |
+| LeetCode   | <!-- LEET_COUNT -->60<!-- END_LEET_COUNT --> |
 | Codeforces | 0                                            |
 | CodeChef   | 0                                            |
 | AtCoder    | 0                                            |
@@ -68,7 +68,7 @@ Problem_Solving/
 
 | Difficulty | Solved                                          |
 | ---------- | ----------------------------------------------- |
-| 🟢 Easy    | <!-- EASY_COUNT -->49<!-- END_EASY_COUNT -->    |
+| 🟢 Easy    | <!-- EASY_COUNT -->50<!-- END_EASY_COUNT -->    |
 | 🟡 Medium  | <!-- MEDIUM_COUNT -->9<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->1<!-- END_HARD_COUNT -->     |
 
@@ -138,6 +138,7 @@ Problem_Solving/
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | 🟢 Easy | [Python](leet/1991.py) |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | 🟢 Easy | [Python](leet/2678.py) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | [Python](leet/2965.py) |
+| 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | 🟢 Easy | [Python](leet/3110.py) |
 | 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | 🟡 Medium | [Python](leet/3514.py) |
 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | 🟢 Easy | [Python](leet/3898.py) |
 
