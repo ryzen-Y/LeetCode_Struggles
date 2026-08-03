@@ -57,7 +57,7 @@ Problem_Solving/
 
 | Platform   | Solved                                       |
 | ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->53<!-- END_LEET_COUNT --> |
+| LeetCode   | <!-- LEET_COUNT -->54<!-- END_LEET_COUNT --> |
 | Codeforces | 0                                            |
 | CodeChef   | 0                                            |
 | AtCoder    | 0                                            |
@@ -69,7 +69,7 @@ Problem_Solving/
 | Difficulty | Solved                                          |
 | ---------- | ----------------------------------------------- |
 | 🟢 Easy    | <!-- EASY_COUNT -->46<!-- END_EASY_COUNT -->    |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->6<!-- END_MEDIUM_COUNT --> |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->7<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->1<!-- END_HARD_COUNT -->     |
 
 ---
@@ -95,6 +95,7 @@ Problem_Solving/
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | [Python](leet/67.py) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | [Python](leet/69.py) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | [Python](leet/75.py) |
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | [Python](leet/80.py) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [Python](leet/88.py) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [Python](leet/121.py) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | [Python](leet/136.py) |
