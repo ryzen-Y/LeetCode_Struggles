@@ -57,7 +57,7 @@ Problem_Solving/
 
 | Platform   | Solved                                       |
 | ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->56<!-- END_LEET_COUNT --> |
+| LeetCode   | <!-- LEET_COUNT -->57<!-- END_LEET_COUNT --> |
 | Codeforces | 0                                            |
 | CodeChef   | 0                                            |
 | AtCoder    | 0                                            |
@@ -69,7 +69,7 @@ Problem_Solving/
 | Difficulty | Solved                                          |
 | ---------- | ----------------------------------------------- |
 | 🟢 Easy    | <!-- EASY_COUNT -->48<!-- END_EASY_COUNT -->    |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->7<!-- END_MEDIUM_COUNT --> |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->8<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->1<!-- END_HARD_COUNT -->     |
 
 ---
@@ -100,6 +100,7 @@ Problem_Solving/
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [Python](leet/121.py) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | [Python](leet/136.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | [Python](leet/169.py) |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | [Python](leet/189.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [Python](leet/217.py) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 🟢 Easy | [Python](leet/219.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | [Python](leet/238.py) |
