@@ -57,7 +57,7 @@ Problem_Solving/
 
 | Platform   | Solved                                       |
 | ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->66<!-- END_LEET_COUNT --> |
+| LeetCode   | <!-- LEET_COUNT -->67<!-- END_LEET_COUNT --> |
 | Codeforces | 0                                            |
 | CodeChef   | 0                                            |
 | AtCoder    | 0                                            |
@@ -68,7 +68,7 @@ Problem_Solving/
 
 | Difficulty | Solved                                          |
 | ---------- | ----------------------------------------------- |
-| 🟢 Easy    | <!-- EASY_COUNT -->55<!-- END_EASY_COUNT -->    |
+| 🟢 Easy    | <!-- EASY_COUNT -->56<!-- END_EASY_COUNT -->    |
 | 🟡 Medium  | <!-- MEDIUM_COUNT -->9<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->2<!-- END_HARD_COUNT -->     |
 
@@ -143,6 +143,7 @@ Problem_Solving/
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | [Python](leet/2965.py) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | 🟢 Easy | [Python](leet/3110.py) |
 | 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | 🟡 Medium | [Python](leet/3514.py) |
+| 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | 🟢 Easy | [Python](leet/3668.py) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | [Python](leet/3731.py) |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 Easy | [Python](leet/3783.py) |
 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | 🟢 Easy | [Python](leet/3898.py) |
