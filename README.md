@@ -57,7 +57,7 @@ Problem_Solving/
 
 | Platform   | Solved                                       |
 | ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->82<!-- END_LEET_COUNT --> |
+| LeetCode   | <!-- LEET_COUNT -->84<!-- END_LEET_COUNT --> |
 | Codeforces | 0                                            |
 | CodeChef   | 0                                            |
 | AtCoder    | 0                                            |
@@ -68,8 +68,8 @@ Problem_Solving/
 
 | Difficulty | Solved                                          |
 | ---------- | ----------------------------------------------- |
-| 🟢 Easy    | <!-- EASY_COUNT -->65<!-- END_EASY_COUNT -->    |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->14<!-- END_MEDIUM_COUNT --> |
+| 🟢 Easy    | <!-- EASY_COUNT -->66<!-- END_EASY_COUNT -->    |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->15<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->3<!-- END_HARD_COUNT -->     |
 
 ---
@@ -101,6 +101,7 @@ Problem_Solving/
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [Python](leet/121.py) |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 Hard | [Python](leet/127.py) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | [Python](leet/136.py) |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | [Python](leet/153.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | [Python](leet/169.py) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | [Python](leet/189.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [Python](leet/217.py) |
@@ -118,6 +119,7 @@ Problem_Solving/
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | [Python](leet/560.py) |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | 🟢 Easy | [Python](leet/572.py) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢 Easy | [Python](leet/643.py) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | [Python](leet/704.py) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | 🟢 Easy | [Python](leet/709.py) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢 Easy | [Python](leet/724.py) |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | 🟢 Easy | [Python](leet/867.py) |
