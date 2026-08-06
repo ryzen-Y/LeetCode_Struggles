@@ -57,7 +57,7 @@ Problem_Solving/
 
 | Platform   | Solved                                       |
 | ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->84<!-- END_LEET_COUNT --> |
+| LeetCode   | <!-- LEET_COUNT -->85<!-- END_LEET_COUNT --> |
 | Codeforces | 0                                            |
 | CodeChef   | 0                                            |
 | AtCoder    | 0                                            |
@@ -69,7 +69,7 @@ Problem_Solving/
 | Difficulty | Solved                                          |
 | ---------- | ----------------------------------------------- |
 | 🟢 Easy    | <!-- EASY_COUNT -->66<!-- END_EASY_COUNT -->    |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->15<!-- END_MEDIUM_COUNT --> |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->16<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->3<!-- END_HARD_COUNT -->     |
 
 ---
@@ -88,6 +88,7 @@ Problem_Solving/
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | [Python](leet/14.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | [Python](leet/26.py) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | [Python](leet/27.py) |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | [Python](leet/33.py) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | [Python](leet/35.py) |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | [Python](leet/44.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | [Python](leet/53.py) |
