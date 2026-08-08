@@ -57,7 +57,7 @@ Problem_Solving/
 
 | Platform   | Solved                                       |
 | ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->91<!-- END_LEET_COUNT --> |
+| LeetCode   | <!-- LEET_COUNT -->92<!-- END_LEET_COUNT --> |
 | Codeforces | 0                                            |
 | CodeChef   | 0                                            |
 | AtCoder    | 0                                            |
@@ -69,7 +69,7 @@ Problem_Solving/
 | Difficulty | Solved                                          |
 | ---------- | ----------------------------------------------- |
 | 🟢 Easy    | <!-- EASY_COUNT -->70<!-- END_EASY_COUNT -->    |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->17<!-- END_MEDIUM_COUNT --> |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->18<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->4<!-- END_HARD_COUNT -->     |
 
 ---
@@ -161,6 +161,7 @@ Problem_Solving/
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | [Python](leet/2965.py) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | 🟢 Easy | [Python](leet/3110.py) |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | 🟢 Easy | [Python](leet/3190.py) |
+| 3302 | [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | 🟡 Medium | [Python](leet/3302.py) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | 🟢 Easy | [Python](leet/3345.py) |
 | 3348 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | 🔴 Hard | [Python](leet/3348.py) |
 | 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | 🟡 Medium | [Python](leet/3514.py) |
