@@ -57,7 +57,7 @@ Problem_Solving/
 
 | Platform   | Solved                                       |
 | ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->94<!-- END_LEET_COUNT --> |
+| LeetCode   | <!-- LEET_COUNT -->95<!-- END_LEET_COUNT --> |
 | Codeforces | 0                                            |
 | CodeChef   | 0                                            |
 | AtCoder    | 0                                            |
@@ -70,7 +70,7 @@ Problem_Solving/
 | ---------- | ----------------------------------------------- |
 | 🟢 Easy    | <!-- EASY_COUNT -->70<!-- END_EASY_COUNT -->    |
 | 🟡 Medium  | <!-- MEDIUM_COUNT -->19<!-- END_MEDIUM_COUNT --> |
-| 🔴 Hard    | <!-- HARD_COUNT -->5<!-- END_HARD_COUNT -->     |
+| 🔴 Hard    | <!-- HARD_COUNT -->6<!-- END_HARD_COUNT -->     |
 
 ---
 
@@ -141,6 +141,7 @@ Problem_Solving/
 | 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | 🔴 Hard | [Python](leet/1463.py) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | [Python](leet/1470.py) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | [Python](leet/1480.py) |
+| 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | 🔴 Hard | [Python](leet/1510.py) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | 🟢 Easy | [Python](leet/1512.py) |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | 🟢 Easy | [Python](leet/1572.py) |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | 🟡 Medium | [Python](leet/1689.py) |
