@@ -59,7 +59,7 @@ Problem_Solving/
 | Platform   | Solved                                       |
 | ---------- | -------------------------------------------- |
 | LeetCode   | <!-- LEET_COUNT -->97<!-- END_LEET_COUNT --> |
-| Codeforces | 0                                            |
+| Codeforces | 3                                            |
 | CodeChef   | 0                                            |
 | AtCoder    | 0                                            |
 
