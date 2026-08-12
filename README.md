@@ -10,9 +10,6 @@ A collection of my **Data Structures & Algorithms (DSA)** solutions from various
 # 📌 Platforms
 
 - 🟢 LeetCode
-- 🔵 Codeforces _(Coming Soon)_
-- 🟠 CodeChef _(Coming Soon)_
-- 🟣 AtCoder _(Coming Soon)_
 
 ---
 
@@ -55,22 +52,19 @@ Problem_Solving/
 
 # 📈 Progress
 
-| Platform   | Solved                                       |
-| ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->92<!-- END_LEET_COUNT --> |
-| Codeforces | 0                                            |
-| CodeChef   | 0                                            |
-| AtCoder    | 0                                            |
+| Platform | Solved                                       |
+| -------- | -------------------------------------------- |
+| LeetCode | <!-- LEET_COUNT -->97<!-- END_LEET_COUNT --> |
 
 ---
 
 ## 📊 Difficulty Breakdown
 
-| Difficulty | Solved                                          |
-| ---------- | ----------------------------------------------- |
-| 🟢 Easy    | <!-- EASY_COUNT -->70<!-- END_EASY_COUNT -->    |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->18<!-- END_MEDIUM_COUNT --> |
-| 🔴 Hard    | <!-- HARD_COUNT -->4<!-- END_HARD_COUNT -->     |
+| Difficulty | Solved                                           |
+| ---------- | ------------------------------------------------ |
+| 🟢 Easy    | <!-- EASY_COUNT -->71<!-- END_EASY_COUNT -->     |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->20<!-- END_MEDIUM_COUNT --> |
+| 🔴 Hard    | <!-- HARD_COUNT -->6<!-- END_HARD_COUNT -->      |
 
 ---
 
@@ -83,6 +77,7 @@ Problem_Solving/
 
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](leet/1.py) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | [Python](leet/3.py) |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | [Python](leet/5.py) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [Python](leet/9.py) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | [Python](leet/13.py) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | [Python](leet/14.py) |
@@ -130,6 +125,7 @@ Problem_Solving/
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | 🟡 Medium | [Python](leet/877.py) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | [Python](leet/977.py) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | 🟢 Easy | [Python](leet/1051.py) |
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | 🟡 Medium | [Python](leet/1140.py) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | 🟢 Easy | [Python](leet/1207.py) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | 🟢 Easy | [Python](leet/1295.py) |
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | 🟢 Easy | [Python](leet/1299.py) |
@@ -137,8 +133,10 @@ Problem_Solving/
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 🟢 Easy | [Python](leet/1365.py) |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | 🔴 Hard | [Python](leet/1406.py) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 Easy | [Python](leet/1431.py) |
+| 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | 🔴 Hard | [Python](leet/1463.py) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | [Python](leet/1470.py) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | [Python](leet/1480.py) |
+| 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | 🔴 Hard | [Python](leet/1510.py) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | 🟢 Easy | [Python](leet/1512.py) |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | 🟢 Easy | [Python](leet/1572.py) |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | 🟡 Medium | [Python](leet/1689.py) |
@@ -159,6 +157,7 @@ Problem_Solving/
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | 🟢 Easy | [Python](leet/2894.py) |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | 🟢 Easy | [Python](leet/2942.py) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | [Python](leet/2965.py) |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | 🟢 Easy | [Python](leet/2996.py) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | 🟢 Easy | [Python](leet/3110.py) |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | 🟢 Easy | [Python](leet/3190.py) |
 | 3302 | [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | 🟡 Medium | [Python](leet/3302.py) |

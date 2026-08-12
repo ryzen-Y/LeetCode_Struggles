@@ -1,5 +1,16 @@
-from typing import List
-
-
 class Solution:
-    def maxSubarrayLength(self, nums: List[int], k: int) -> int:
+    def maxSubarrayLength(self, nums: list[int], k: int) -> int:
+        left = 0
+        freq = {}
+        ans = 0
+
+        for right in range(len(nums)):
+            freq[nums[right]] = freq.get(nums[right], 0) + 1
+
+            while freq[nums[right]] > k:
+                freq[nums[left]] -= 1
+                left += 1
+
+            ans = max(ans, right - left + 1)
+
+        return ans
