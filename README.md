@@ -60,8 +60,7 @@ Problem_Solving/
 | ---------- | -------------------------------------------- |
 | LeetCode   | <!-- LEET_COUNT -->97<!-- END_LEET_COUNT --> |
 | Codeforces | 3                                            |
-| CodeChef   | 0                                            |
-| AtCoder    | 0                                            |
+
 
 ---
 
