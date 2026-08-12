@@ -10,9 +10,9 @@ A collection of my **Data Structures & Algorithms (DSA)** solutions from various
 # 📌 Platforms
 
 - 🟢 LeetCode
-- 🔵 Codeforces _(Coming Soon)_
-- 🟠 CodeChef _(Coming Soon)_
-- 🟣 AtCoder _(Coming Soon)_
+- 🔵 Codeforces 
+- 🟠 CodeChef _(May Come)_
+- 🟣 AtCoder _(May Come)_
 
 ---
 
