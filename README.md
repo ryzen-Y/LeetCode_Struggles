@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
-![Platform](https://img.shields.io/badge/Platform-Codeforces-blue?style=for-the-badge&logo=codeforces)
 
 A collection of my **Data Structures & Algorithms (DSA)** solutions from various coding platforms. This repository serves as my personal coding journal to improve problem-solving skills, strengthen algorithmic thinking, and prepare for coding interviews and competitive programming.
 
@@ -11,9 +10,6 @@ A collection of my **Data Structures & Algorithms (DSA)** solutions from various
 # 📌 Platforms
 
 - 🟢 LeetCode
-- 🔵 Codeforces 
-- 🟠 CodeChef _(May Come)_
-- 🟣 AtCoder _(May Come)_
 
 ---
 
@@ -56,21 +52,19 @@ Problem_Solving/
 
 # 📈 Progress
 
-| Platform   | Solved                                       |
-| ---------- | -------------------------------------------- |
-| LeetCode   | <!-- LEET_COUNT -->97<!-- END_LEET_COUNT --> |
-| Codeforces | 3                                            |
-
+| Platform | Solved                                       |
+| -------- | -------------------------------------------- |
+| LeetCode | <!-- LEET_COUNT -->97<!-- END_LEET_COUNT --> |
 
 ---
 
 ## 📊 Difficulty Breakdown
 
-| Difficulty | Solved                                          |
-| ---------- | ----------------------------------------------- |
-| 🟢 Easy    | <!-- EASY_COUNT -->71<!-- END_EASY_COUNT -->    |
+| Difficulty | Solved                                           |
+| ---------- | ------------------------------------------------ |
+| 🟢 Easy    | <!-- EASY_COUNT -->71<!-- END_EASY_COUNT -->     |
 | 🟡 Medium  | <!-- MEDIUM_COUNT -->20<!-- END_MEDIUM_COUNT --> |
-| 🔴 Hard    | <!-- HARD_COUNT -->6<!-- END_HARD_COUNT -->     |
+| 🔴 Hard    | <!-- HARD_COUNT -->6<!-- END_HARD_COUNT -->      |
 
 ---
 
