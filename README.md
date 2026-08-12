@@ -54,7 +54,7 @@ Problem_Solving/
 
 | Platform | Solved                                       |
 | -------- | -------------------------------------------- |
-| LeetCode | <!-- LEET_COUNT -->97<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->98<!-- END_LEET_COUNT --> |
 
 ---
 
@@ -63,7 +63,7 @@ Problem_Solving/
 | Difficulty | Solved                                           |
 | ---------- | ------------------------------------------------ |
 | 🟢 Easy    | <!-- EASY_COUNT -->71<!-- END_EASY_COUNT -->     |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->20<!-- END_MEDIUM_COUNT --> |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->21<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->6<!-- END_HARD_COUNT -->      |
 
 ---
@@ -156,6 +156,7 @@ Problem_Solving/
 | 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | 🟢 Easy | [Python](leet/2888.py) |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | 🟢 Easy | [Python](leet/2894.py) |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | 🟢 Easy | [Python](leet/2942.py) |
+| 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | 🟡 Medium | [Python](leet/2958.py) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | [Python](leet/2965.py) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | 🟢 Easy | [Python](leet/2996.py) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | 🟢 Easy | [Python](leet/3110.py) |
