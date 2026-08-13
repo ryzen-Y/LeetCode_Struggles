@@ -54,7 +54,7 @@ Problem_Solving/
 
 | Platform | Solved                                       |
 | -------- | -------------------------------------------- |
-| LeetCode | <!-- LEET_COUNT -->98<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->99<!-- END_LEET_COUNT --> |
 
 ---
 
@@ -64,7 +64,7 @@ Problem_Solving/
 | ---------- | ------------------------------------------------ |
 | 🟢 Easy    | <!-- EASY_COUNT -->71<!-- END_EASY_COUNT -->     |
 | 🟡 Medium  | <!-- MEDIUM_COUNT -->21<!-- END_MEDIUM_COUNT --> |
-| 🔴 Hard    | <!-- HARD_COUNT -->6<!-- END_HARD_COUNT -->      |
+| 🔴 Hard    | <!-- HARD_COUNT -->7<!-- END_HARD_COUNT -->      |
 
 ---
 
@@ -147,6 +147,7 @@ Problem_Solving/
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | 🟢 Easy | [Python](leet/1991.py) |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | 🟢 Easy | [Python](leet/2011.py) |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 Medium | [Python](leet/2161.py) |
+| 2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | 🔴 Hard | [Python](leet/2213.py) |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | 🟡 Medium | [Python](leet/2396.py) |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | 🟢 Easy | [Python](leet/2469.py) |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | 🟢 Easy | [Python](leet/2678.py) |
