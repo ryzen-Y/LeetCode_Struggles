@@ -1,7 +1,11 @@
+from typing import List
+
+
 class Solution:
     def longestRepeating(self, s: str, queryCharacters: str, queryIndices: List[int]) -> List[int]:
         n = len(s)
         tree = [None] * (4 * n)
+
         def merge(left, right):
             if left is None:
                 return right
