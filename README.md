@@ -54,7 +54,7 @@ Problem_Solving/
 
 | Platform | Solved                                       |
 | -------- | -------------------------------------------- |
-| LeetCode | <!-- LEET_COUNT -->104<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->105<!-- END_LEET_COUNT --> |
 
 ---
 
@@ -62,7 +62,7 @@ Problem_Solving/
 
 | Difficulty | Solved                                           |
 | ---------- | ------------------------------------------------ |
-| 🟢 Easy    | <!-- EASY_COUNT -->72<!-- END_EASY_COUNT -->     |
+| 🟢 Easy    | <!-- EASY_COUNT -->73<!-- END_EASY_COUNT -->     |
 | 🟡 Medium  | <!-- MEDIUM_COUNT -->24<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->8<!-- END_HARD_COUNT -->      |
 
@@ -169,6 +169,7 @@ Problem_Solving/
 | 3302 | [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | 🟡 Medium | [Python](leet/3302.py) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | 🟢 Easy | [Python](leet/3345.py) |
 | 3348 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | 🔴 Hard | [Python](leet/3348.py) |
+| 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | [Python](leet/3471.py) |
 | 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | 🟡 Medium | [Python](leet/3514.py) |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | 🟢 Easy | [Python](leet/3668.py) |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | 🟢 Easy | [Python](leet/3701.py) |
