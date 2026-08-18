@@ -54,7 +54,7 @@ Problem_Solving/
 
 | Platform | Solved                                       |
 | -------- | -------------------------------------------- |
-| LeetCode | <!-- LEET_COUNT -->103<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->104<!-- END_LEET_COUNT --> |
 
 ---
 
@@ -64,7 +64,7 @@ Problem_Solving/
 | ---------- | ------------------------------------------------ |
 | 🟢 Easy    | <!-- EASY_COUNT -->72<!-- END_EASY_COUNT -->     |
 | 🟡 Medium  | <!-- MEDIUM_COUNT -->24<!-- END_MEDIUM_COUNT --> |
-| 🔴 Hard    | <!-- HARD_COUNT -->7<!-- END_HARD_COUNT -->      |
+| 🔴 Hard    | <!-- HARD_COUNT -->8<!-- END_HARD_COUNT -->      |
 
 ---
 
@@ -139,6 +139,7 @@ Problem_Solving/
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | [Python](leet/1480.py) |
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | 🔴 Hard | [Python](leet/1510.py) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | 🟢 Easy | [Python](leet/1512.py) |
+| 1563 | [Stone Game V](https://leetcode.com/problems/stone-game-v/) | 🔴 Hard | [Python](leet/1563.py) |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | 🟢 Easy | [Python](leet/1572.py) |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | 🟡 Medium | [Python](leet/1689.py) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | 🟢 Easy | [Python](leet/1732.py) |
