@@ -54,7 +54,7 @@ Problem_Solving/
 
 | Platform | Solved                                       |
 | -------- | -------------------------------------------- |
-| LeetCode | <!-- LEET_COUNT -->110<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->112<!-- END_LEET_COUNT --> |
 
 ---
 
@@ -62,8 +62,8 @@ Problem_Solving/
 
 | Difficulty | Solved                                           |
 | ---------- | ------------------------------------------------ |
-| 🟢 Easy    | <!-- EASY_COUNT -->74<!-- END_EASY_COUNT -->     |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->27<!-- END_MEDIUM_COUNT --> |
+| 🟢 Easy    | <!-- EASY_COUNT -->75<!-- END_EASY_COUNT -->     |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->28<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->9<!-- END_HARD_COUNT -->      |
 
 ---
@@ -152,6 +152,7 @@ Problem_Solving/
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | 🟢 Easy | [Python](leet/1991.py) |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | 🟢 Easy | [Python](leet/2011.py) |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | 🟡 Medium | [Python](leet/2029.py) |
+| 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | 🟡 Medium | [Python](leet/2090.py) |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 Medium | [Python](leet/2161.py) |
 | 2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | 🔴 Hard | [Python](leet/2213.py) |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | 🟡 Medium | [Python](leet/2396.py) |
@@ -176,6 +177,7 @@ Problem_Solving/
 | 3348 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | 🔴 Hard | [Python](leet/3348.py) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | [Python](leet/3471.py) |
 | 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | 🟡 Medium | [Python](leet/3514.py) |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | 🟢 Easy | [Python](leet/3622.py) |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | 🟢 Easy | [Python](leet/3668.py) |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | 🟢 Easy | [Python](leet/3701.py) |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | 🟡 Medium | [Python](leet/3702.py) |
