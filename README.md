@@ -54,7 +54,7 @@ Problem_Solving/
 
 | Platform | Solved                                       |
 | -------- | -------------------------------------------- |
-| LeetCode | <!-- LEET_COUNT -->112<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->113<!-- END_LEET_COUNT --> |
 
 ---
 
@@ -62,7 +62,7 @@ Problem_Solving/
 
 | Difficulty | Solved                                           |
 | ---------- | ------------------------------------------------ |
-| 🟢 Easy    | <!-- EASY_COUNT -->75<!-- END_EASY_COUNT -->     |
+| 🟢 Easy    | <!-- EASY_COUNT -->76<!-- END_EASY_COUNT -->     |
 | 🟡 Medium  | <!-- MEDIUM_COUNT -->28<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->9<!-- END_HARD_COUNT -->      |
 
@@ -152,6 +152,7 @@ Problem_Solving/
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | 🟢 Easy | [Python](leet/1991.py) |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | 🟢 Easy | [Python](leet/2011.py) |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | 🟡 Medium | [Python](leet/2029.py) |
+| 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | 🟢 Easy | [Python](leet/2037.py) |
 | 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | 🟡 Medium | [Python](leet/2090.py) |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 Medium | [Python](leet/2161.py) |
 | 2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | 🔴 Hard | [Python](leet/2213.py) |
