@@ -54,7 +54,7 @@ Problem_Solving/
 
 | Platform | Solved                                       |
 | -------- | -------------------------------------------- |
-| LeetCode | <!-- LEET_COUNT -->114<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->115<!-- END_LEET_COUNT --> |
 
 ---
 
@@ -64,7 +64,7 @@ Problem_Solving/
 | ---------- | ------------------------------------------------ |
 | 🟢 Easy    | <!-- EASY_COUNT -->76<!-- END_EASY_COUNT -->     |
 | 🟡 Medium  | <!-- MEDIUM_COUNT -->29<!-- END_MEDIUM_COUNT --> |
-| 🔴 Hard    | <!-- HARD_COUNT -->9<!-- END_HARD_COUNT -->      |
+| 🔴 Hard    | <!-- HARD_COUNT -->10<!-- END_HARD_COUNT -->      |
 
 ---
 
@@ -147,6 +147,7 @@ Problem_Solving/
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | 🟡 Medium | [Python](leet/1689.py) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | 🟢 Easy | [Python](leet/1732.py) |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | 🟢 Easy | [Python](leet/1863.py) |
+| 1872 | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) | 🔴 Hard | [Python](leet/1872.py) |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | 🟢 Easy | [Python](leet/1920.py) |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | 🟡 Medium | [Python](leet/1927.py) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | [Python](leet/1929.py) |
