@@ -1,38 +1,18 @@
 class Solution:
-    def uniformArray(self, num1: list[int]) -> bool:
+    def uniformArray(self, nums):
+        smallestOdd = float('inf')
 
-        if num1[0] % 2 != 0:
-            flag = True
-            for i in range(len(num1)):
-                if i == 0:
-                    continue
+        for num in nums:
+            if num % 2 == 1:
+                smallestOdd = min(smallestOdd, num)
 
-                if num1[i] % 2 == 0:
-                    found = False
-                    for j in range(len(num1)):
-                        if i != j:
-                            diff = num1[i] - num1[j]
-                            if diff % 2 == 1 and diff >= 1:
-                                found = True
-                                break
-                    if found == False:
-                        flag = False
-            return flag
+        # Already all even
+        if smallestOdd == float('inf'):
+            return True
 
-        else:
-            flag = True
-            for i in range(len(num1)):
-                if i == 0:
-                    continue
+        # Check whether every even number can become odd
+        for num in nums:
+            if num % 2 == 0 and num <= smallestOdd:
+                return False
 
-                if num1[i] % 2 != 0:
-                    found = False
-                    for j in range(len(num1)):
-                        if i != j:
-                            diff = num1[i] - num1[j]
-                            if diff % 2 == 1 and diff >= 1:
-                                found = True
-                                break
-                    if found == False:
-                        flag = False
-            return flag
+        return True
