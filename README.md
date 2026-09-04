@@ -54,7 +54,7 @@ Problem_Solving/
 
 | Platform | Solved                                       |
 | -------- | -------------------------------------------- |
-| LeetCode | <!-- LEET_COUNT -->124<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->125<!-- END_LEET_COUNT --> |
 
 ---
 
@@ -63,7 +63,7 @@ Problem_Solving/
 | Difficulty | Solved                                           |
 | ---------- | ------------------------------------------------ |
 | 🟢 Easy    | <!-- EASY_COUNT -->78<!-- END_EASY_COUNT -->     |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->35<!-- END_MEDIUM_COUNT --> |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->36<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->11<!-- END_HARD_COUNT -->      |
 
 ---
@@ -87,6 +87,7 @@ Problem_Solving/
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | [Python](leet/33.py) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | [Python](leet/35.py) |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | [Python](leet/44.py) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | [Python](leet/49.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | [Python](leet/53.py) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | [Python](leet/56.py) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [Python](leet/58.py) |
