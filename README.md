@@ -54,7 +54,7 @@ Problem_Solving/
 
 | Platform | Solved                                       |
 | -------- | -------------------------------------------- |
-| LeetCode | <!-- LEET_COUNT -->129<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->130<!-- END_LEET_COUNT --> |
 
 ---
 
@@ -62,7 +62,7 @@ Problem_Solving/
 
 | Difficulty | Solved                                           |
 | ---------- | ------------------------------------------------ |
-| 🟢 Easy    | <!-- EASY_COUNT -->81<!-- END_EASY_COUNT -->     |
+| 🟢 Easy    | <!-- EASY_COUNT -->82<!-- END_EASY_COUNT -->     |
 | 🟡 Medium  | <!-- MEDIUM_COUNT -->37<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->11<!-- END_HARD_COUNT -->      |
 
@@ -199,6 +199,7 @@ Problem_Solving/
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | 🟡 Medium | [Python](leet/3760.py) |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 Easy | [Python](leet/3783.py) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 Easy | [Python](leet/3838.py) |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | 🟢 Easy | [Python](leet/3870.py) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | 🟢 Easy | [Python](leet/3875.py) |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | 🟡 Medium | [Python](leet/3876.py) |
 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | 🟢 Easy | [Python](leet/3898.py) |
