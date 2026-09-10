@@ -21,16 +21,15 @@ class Solution:
         i = 0
         j = 0
         s = ""
+        len_one = len(word1)
+        len_two = len(word2)
 
-        word1_len = len(word1)
-        word2_len = len(word2)
+        while i < len_one or j < len_two:
 
-        while i < word1_len or j < word2_len:
-
-            if i < word1_len:
+            if i < len_one:
                 s = s + word1[i]
                 i += 1
-            if j < word2_len:
+            if j < len_two:
                 s = s + word2[j]
                 j += 1
         return s
