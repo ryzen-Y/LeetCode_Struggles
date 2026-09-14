@@ -24,11 +24,13 @@ class Solution:
 
 
 class Solution:
-    def rotate(self, nums: List[int], k: int) -> None:
+    def reverse(self, nums, left, right):
+
         n = len(nums)
+
         k %= n
 
         if k != 0:
-            arr = [n-k:]
+            arr = nums[n-k:]
             del nums[n-k:]
             nums[0:0] = arr
