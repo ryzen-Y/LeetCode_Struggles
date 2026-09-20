@@ -13,3 +13,24 @@ class Solution:
                     return True
             file[nums[i]] = i
         return False
+
+
+# sliding window aprochh
+
+class Solution:
+    def containsNearbyDuplicate(self, nums: list[int], k: int) -> bool:
+
+        left = 0
+        n = len(nums)
+
+        window = set()
+
+        for right in range(n):
+            if nums[right] in window:
+                return True
+            window.add(nums[right])
+
+            if abs(left - right) >= k:
+                window.remove(nums[left])
+                left += 1
+        return False
