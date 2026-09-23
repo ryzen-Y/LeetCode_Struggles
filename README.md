@@ -54,7 +54,7 @@ Problem_Solving/
 
 | Platform | Solved                                       |
 | -------- | -------------------------------------------- |
-| LeetCode | <!-- LEET_COUNT -->139<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->140<!-- END_LEET_COUNT --> |
 
 ---
 
@@ -63,7 +63,7 @@ Problem_Solving/
 | Difficulty | Solved                                           |
 | ---------- | ------------------------------------------------ |
 | 🟢 Easy    | <!-- EASY_COUNT -->85<!-- END_EASY_COUNT -->     |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->43<!-- END_MEDIUM_COUNT --> |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->44<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->11<!-- END_HARD_COUNT -->      |
 
 ---
@@ -121,6 +121,7 @@ Problem_Solving/
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | 🟢 Easy | [Python](leet/383.py) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 🟢 Easy | [Python](leet/392.py) |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | 🟢 Easy | [Python](leet/414.py) |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | [Python](leet/424.py) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | [Python](leet/485.py) |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | 🟢 Easy | [Python](leet/506.py) |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | [Python](leet/560.py) |
