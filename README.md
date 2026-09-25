@@ -54,7 +54,7 @@ Problem_Solving/
 
 | Platform | Solved                                       |
 | -------- | -------------------------------------------- |
-| LeetCode | <!-- LEET_COUNT -->141<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->142<!-- END_LEET_COUNT --> |
 
 ---
 
@@ -63,7 +63,7 @@ Problem_Solving/
 | Difficulty | Solved                                           |
 | ---------- | ------------------------------------------------ |
 | 🟢 Easy    | <!-- EASY_COUNT -->86<!-- END_EASY_COUNT -->     |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->44<!-- END_MEDIUM_COUNT --> |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->45<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->11<!-- END_HARD_COUNT -->      |
 
 ---
@@ -108,6 +108,7 @@ Problem_Solving/
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | [Python](leet/167.py) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | [Python](leet/169.py) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | [Python](leet/189.py) |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 🟡 Medium | [Python](leet/209.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [Python](leet/217.py) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 🟢 Easy | [Python](leet/219.py) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | [Python](leet/238.py) |
