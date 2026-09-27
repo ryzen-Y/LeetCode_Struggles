@@ -54,7 +54,7 @@ Problem_Solving/
 
 | Platform | Solved                                       |
 | -------- | -------------------------------------------- |
-| LeetCode | <!-- LEET_COUNT -->142<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->143<!-- END_LEET_COUNT --> |
 
 ---
 
@@ -63,7 +63,7 @@ Problem_Solving/
 | Difficulty | Solved                                           |
 | ---------- | ------------------------------------------------ |
 | 🟢 Easy    | <!-- EASY_COUNT -->86<!-- END_EASY_COUNT -->     |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->45<!-- END_MEDIUM_COUNT --> |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->46<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->11<!-- END_HARD_COUNT -->      |
 
 ---
@@ -129,6 +129,7 @@ Problem_Solving/
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | 🟢 Easy | [Python](leet/561.py) |
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | 🟢 Easy | [Python](leet/572.py) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢 Easy | [Python](leet/643.py) |
+| 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 🟡 Medium | [Python](leet/658.py) |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 🟢 Easy | [Python](leet/680.py) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | [Python](leet/704.py) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | 🟢 Easy | [Python](leet/709.py) |
