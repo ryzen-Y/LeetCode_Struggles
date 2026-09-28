@@ -54,7 +54,7 @@ Problem_Solving/
 
 | Platform | Solved                                       |
 | -------- | -------------------------------------------- |
-| LeetCode | <!-- LEET_COUNT -->143<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->144<!-- END_LEET_COUNT --> |
 
 ---
 
@@ -62,7 +62,7 @@ Problem_Solving/
 
 | Difficulty | Solved                                           |
 | ---------- | ------------------------------------------------ |
-| 🟢 Easy    | <!-- EASY_COUNT -->86<!-- END_EASY_COUNT -->     |
+| 🟢 Easy    | <!-- EASY_COUNT -->87<!-- END_EASY_COUNT -->     |
 | 🟡 Medium  | <!-- MEDIUM_COUNT -->46<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->11<!-- END_HARD_COUNT -->      |
 
@@ -157,6 +157,7 @@ Problem_Solving/
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | 🟢 Easy | [Python](leet/1512.py) |
 | 1563 | [Stone Game V](https://leetcode.com/problems/stone-game-v/) | 🔴 Hard | [Python](leet/1563.py) |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | 🟢 Easy | [Python](leet/1572.py) |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | [Python](leet/1614.py) |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | 🟡 Medium | [Python](leet/1658.py) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | 🟢 Easy | [Python](leet/1672.py) |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | 🟡 Medium | [Python](leet/1689.py) |
