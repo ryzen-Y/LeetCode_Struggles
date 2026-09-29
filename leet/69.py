@@ -1,6 +1,16 @@
-import math
-
-
 class Solution:
     def mySqrt(self, x: int) -> int:
-        return int(math.sqrt(x))
+        left = 0
+        right = x
+
+        while left <= right:
+            mid = (left + right) // 2
+            target = mid * mid
+
+            if target == x:
+                return mid
+            elif target < x:
+                left = mid + 1
+            else:
+                right = mid - 1
+        return right
