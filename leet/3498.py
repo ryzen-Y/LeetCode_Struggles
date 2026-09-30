@@ -6,3 +6,4 @@ class Solution:
             rever_index = 123 - ord(value)
             result += rever_index * (index + 1)
         return result
+#
