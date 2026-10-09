@@ -10,4 +10,5 @@ class Solution:
             if c == "(":
                 lvl += 1
 
+        
         return "".join(res)
