@@ -1,0 +1,42 @@
+# Solution  No 1
+
+class Solution:
+    def search(self, nums: list[int], target: int) -> bool:
+        if target in nums:
+            return True
+        else:
+            return False
+
+
+# Solution NO 2
+
+
+class Solution:
+    def search(self, nums: list[int], target: int) -> bool:
+
+        left = 0
+        right = len(nums) - 1
+
+        while left <= right:
+            mid = (left + right) // 2
+
+            if nums[mid] == target:
+                return True
+
+            if nums[mid] == nums[left] == nums[right]:
+                left += 1
+                right -= 1
+
+            elif nums[left] <= nums[mid]:
+                if nums[left] <= target <= nums[mid]:
+                    right = mid - 1
+                else:
+                    left = mid + 1
+
+            else:
+                if nums[mid] <= target <= nums[right]:
+                    left = mid + 1
+                else:
+                    right = mid - 1
+
+        return False
