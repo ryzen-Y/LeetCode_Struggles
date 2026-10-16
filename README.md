@@ -54,7 +54,7 @@ Problem_Solving/
 
 | Platform | Solved                                       |
 | -------- | -------------------------------------------- |
-| LeetCode | <!-- LEET_COUNT -->153<!-- END_LEET_COUNT --> |
+| LeetCode | <!-- LEET_COUNT -->154<!-- END_LEET_COUNT --> |
 
 ---
 
@@ -63,7 +63,7 @@ Problem_Solving/
 | Difficulty | Solved                                           |
 | ---------- | ------------------------------------------------ |
 | 🟢 Easy    | <!-- EASY_COUNT -->92<!-- END_EASY_COUNT -->     |
-| 🟡 Medium  | <!-- MEDIUM_COUNT -->50<!-- END_MEDIUM_COUNT --> |
+| 🟡 Medium  | <!-- MEDIUM_COUNT -->51<!-- END_MEDIUM_COUNT --> |
 | 🔴 Hard    | <!-- HARD_COUNT -->11<!-- END_HARD_COUNT -->      |
 
 ---
@@ -101,6 +101,7 @@ Problem_Solving/
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | [Python](leet/74.py) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | [Python](leet/75.py) |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | [Python](leet/80.py) |
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | [Python](leet/81.py) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [Python](leet/88.py) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [Python](leet/121.py) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | [Python](leet/125.py) |
