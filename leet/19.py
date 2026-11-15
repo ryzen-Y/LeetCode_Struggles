@@ -5,34 +5,29 @@
 #         self.next = next
 
 class Solution:
-    def size(self, head):
-        curr = head
-        count =  0
-        while curr != None:
+    def size (self , head):
+        current = head
+        count = 0 
+
+        while current != None:
             count += 1
-            curr = curr.next
+            current =  current.next
         return count 
-
-    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
-        length = self.size(head)
-        pos = (length + 1) - n 
-        if pos == 1 :
-            return head.next
-
-        curr =  head 
-        count =  1 
-
-        while count < pos - 1 :
-            
-            curr = curr.next
-            count += 1
-            
-            
-            
-        curr.next = curr.next.next
-
-        return head 
-
         
+        def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+            length = self.size(head)
+            pos = length + 1 - n 
 
-        
+            if pos == 1 :
+                return head.next 
+
+            count = 0 
+
+            curr = head 
+
+            while count < pos - 1:
+                count += 1
+                curr = curr.next
+            curr.next = curr.next.next
+
+            return head  
